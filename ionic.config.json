@@ -1,0 +1,8 @@
+{
+  "name": "neighborsfood",
+  "app_id": "9c557b90",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
